@@ -2,7 +2,19 @@
 
 ## 中文机器阅读理解数据集（Chinese Machine Reading Comprehension Datasets）
 
+## 2016
+* PD&CFT
+  * Consensus Attention-based Neural Networks for Chinese Reading Comprehension
+  * [Paper](https://arxiv.org/abs/1607.02250)
+  * [Dataset](https://github.com/ymcui/Chinese-RC-Dataset)
 
+## 2017
+* The First Evaluation Workshop on Chinese Machine Reading Comprehension (CMRC 2017) 
+
+
+
+## 2018
+* The Second Evaluation Workshop on Chinese Machine Reading Comprehension (CMRC 2018)
 
 ***
 
