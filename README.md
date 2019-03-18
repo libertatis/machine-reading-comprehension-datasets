@@ -29,7 +29,8 @@
 
 ###
 
-## 中文机器阅读理解数据集（Chinese Machine Reading Comprehension(CMRC) Datasets）
+## 中文机器阅读理解数据集
+Chinese Machine Reading Comprehension(CMRC) Datasets
 
 ## 2016
 * PD&CFT
