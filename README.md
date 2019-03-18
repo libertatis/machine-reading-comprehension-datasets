@@ -48,5 +48,7 @@
 
 * DRCD (Traditional Chinese machine reading comprehension)
   * DRCD: a Chinese Machine Reading Comprehension Dataset [paper](https://arxiv.org/abs/1806.00920), [dataset](https://github.com/DRCSolutionService/DRCD)
+* ODSQA (Traditional Chinese machine reading comprehension)
+  * ODSQA: Open-domain Spoken Question Answering Dataset [paper](https://arxiv.org/abs/1808.02280), [dataset](https://github.com/chiahsuan156/ODSQA)
 
 
