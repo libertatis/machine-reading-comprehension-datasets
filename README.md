@@ -21,7 +21,7 @@
 * 9/4 [SelQA](#SelQA)
 * 10/5 [WikiReading](#WikiReading)
 * 11/6 [WDW](#WDW)
-* 12/7 [MS MARCO](#MS MARCO)
+* 12/7 [MSMARCO](#MSMARCO)
 * 13/8 [NewsQA](#NewsQA)
 
 
@@ -116,7 +116,7 @@
 
 ### <span id="WDW">WDW</span>
 
-### <span id="MS MARCO">MS MARCO</span>
+### <span id="MSMARCO">MSMARCO</span>
 
 ### <span id="NewsQA">NewsQA</span>
 
