@@ -10,23 +10,48 @@
   * Modeling Biological Processes for Reading Comprehension [paper](https://nlp.stanford.edu/pubs/berant-srikumar-manning-emnlp14.pdf), [homepage&code&dataset](https://nlp.stanford.edu/software/bioprocess/)
 
 ## [2015](#2015)
-* 3/1 [CNN/Daily Mail](#CNNDailyMail)
-* ...
+* 3/1 [bAbI](#bAbI)
+* 4/2 [CNN/Daily Mail](#CNNDailyMail)
+* 5/3 [CBTest](#CBTest)
 
 ## [2016](#2016)
-* 4/1 [CBTest](#CBTest)
-* ...
+* 6/1 [ROCStories](#ROCStories)
+* 7/2 [SQuAD1.0](#SQuAD1.0)
+* 8/3 [LAMBADA](#LAMBADA)
+* 9/4 [SelQA](#SelQA)
+* 10/5 [WikiReading](#WikiReading)
+* 11/6 [WDW](#WDW)
+* 12/7 [MS MARCO](#MS MARCO)
+* 13/8 [NewsQA](#NewsQA)
+
 
 ## [2017](#2017)
-* ...
+* 14/1 [SCT](#SCT)
+* 15/2 [RACE](#RACE)
+* 16/3 [SearchQA](#SearchQA)
+* 17/4 [TriviaQA](#TriviaQA)
+* 18/5 [Quasar](#Quasar)
+* 19/6 [WikiHop&MedHop](#WikiHop&MedHop)
+* 20/7 [CLOTH](#CLOTH)
+* 21/8 [NarrativeQA](#NarrativeQA)
 
 ## [2018](#2018)
-* [SQuAD2.0](#SQuAD2.0)
+* 22/1 [MCScript](#MCScript)
+* 23/2 [ARC](#ARC)
+* 24/3 [CliCR](#CliCR)
+* 25/4 [DuoRC](#DuoRC)
+* 26/5 [EmoryRCDC](#EmoryRCDC)
+* 27/6 [SQuAD2.0](#SQuAD2.0)
   * Know What You Don't Know: Unanswerable Questions for SQuAD [paper](https://arxiv.org/abs/1806.03822), [home](https://rajpurkar.github.io/SQuAD-explorer/)
+* 28/7 [QuAC](#QuAC)
+* 29/8 [CoQA](#CoQA)
+* 30/9 [HotpotQA](#HotpotQA)
+* 31/10 [ReCoRD](#ReCoRD)
+
 
 
 ## [2019](#2019)
-* [Google's Natural Questions](#NQ)
+* 32/1 [Google's Natural Questions](#NQ)
 
 ## To be continued...
 
@@ -62,25 +87,81 @@
 
 ### <span id="MCTest">MCTest</span>
 
+
 ## <span id="2014">2014</span>
 
 ### <span id="ProcessBank">ProcessBank</span>
 
+
 ## <span id="20153">2015</span>
+
+### <span id="bAbI">bAbI</span>
 
 ### <span id="CNNDailyMail">CNN/Daily Mail</span>
 
+### <span id="CBTest">CBTest</span>
+
+
 ## <span id="2016">2016</span>
 
-### <span id="CBTest">CBTest</span>
+### <span id="ROCStories">ROCStories</span>
+
+### <span id="SQuAD1.0">SQuAD1.0</span>
+
+### <span id="LAMBADA">LAMBADA</span>
+
+### <span id="SelQA">SelQA</span>
+
+### <span id="WikiReading">WikiReading</span>
+
+### <span id="WDW">WDW</span>
+
+### <span id="MS MARCO">MS MARCO</span>
+
+### <span id="NewsQA">NewsQA</span>
+
 
 ## <span id="2017">2017</span>
 
+### <span id="SCT">SCT</span>
+
+### <span id="RACE">RACE</span>
+
+### <span id="SearchQA">SearchQA</span>
+
+### <span id="TriviaQA">TriviaQA</span>
+
+### <span id="Quasar">Quasar</span>
+
+### <span id="WikiHop&MedHop">WikiHop&MedHop</span>
+
+### <span id="CLOTH">CLOTH</span>
+
+### <span id="NarrativeQA">NarrativeQA</span>
 
 
 ## <span id="2018">2018</span>
 
+### <span id="MCScript">MCScript</span>
+
+### <span id="ARC">ARC</span>
+
+### <span id="CliCR">CliCR</span>
+
+### <span id="DuoRC">DuoRC</span>
+
+### <span id="EmoryRCDC">EmoryRCDC</span>
+
 ### <span id="SQuAD2.0">SQuAD2.0</span>
+
+### <span id="QuAC">QuAC</span>
+
+### <span id="CoQA">CoQA</span>
+
+### <span id="HotpotQA">HotpotQA</span>
+
+### <span id="ReCoRD">ReCoRD</span>
+
 
 ## <span id="2019">2019</span>
 
